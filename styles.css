@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Marcellus+SC&family=Pacifico&display=swap');
+
+
+body{
+    background-color: rgb(246, 249, 251);
+}
+
+h1{
+    font-family: 'Marcellus SC', serif;
+    letter-spacing: 4px;
+}
+
+#contenedor-asaid{
+    background-color: rgb(219, 224, 224);
+    height: auto;
+    border-radius: 10px;
+    width: 300px;
+}
+
+img{
+    margin-top: 30px;
+    border-radius: 50px 0;
+    width: 150px;
+}
+
+#ul-nav {
+    margin:0 auto;
+    width:80%;
+    display:flex;
+    justify-content:space-between;
+}
+
+#container-contanier{
+    margin-top: 133px;
+}
+
+#contenido {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+#main-sobremi{
+    margin-left: 50px;
+    max-width: 700px;
+}
+
+.div-tareas{
+
+    text-align: start;
+    text-decoration: none;
+}
+
+li{
+    margin-bottom: 15px;
+}
+
+progress{
+    margin-left: 10px;
+}
+
